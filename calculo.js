@@ -1,5 +1,5 @@
-let numero1 
-let numero2 
+let numero1;
+let numero2; 
 
 console.log("Leia um número")
 process.stdin.on("data", function(data) {
